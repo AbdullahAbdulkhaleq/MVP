@@ -1,0 +1,11 @@
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\bin\Debug\MVP.exe.config
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\bin\Debug\MVP.exe
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.csproj.AssemblyReference.cache
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.exe
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.pdb
+C:\Users\Abdullah Abdulkhaleq\OneDrive\سطح المكتب\Abdullah\MVP\MVP\obj\Debug\MVP.View.FBook.resources
